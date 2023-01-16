@@ -1,7 +1,6 @@
 # Sprint-2-project
 
-#Movie Ticket Management System
-
+Movie Ticket Management System
 This project was generated with Angular CLI version 15.0.4.
 
 Development server
