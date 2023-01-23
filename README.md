@@ -1,4 +1,17 @@
 # Sprint-2-project
+This is a sprint-2 project of 'Full Stack Java' Course. Offered By Anudip Foundation.
+
+# Group Members-----
+Akash Sarkar, Sourav Karmakar, Deepraj Podder, Subrata Mondal, Animesh Manna, Koushik Pramanik.
+
+# Technology Used
+Java, Maven, Spring-boat, Rest API, Junit, JPA.
+
+# Front-End
+Angular, Html, CSS, JavaScript, TypeScript, Bootstrap.
+
+# Role 
+Full Stack
 
 # Movie Ticket Management System
 This project was generated with Angular CLI version 15.0.4.
